@@ -2,12 +2,8 @@
 
 This project was generated with [Spring Tools](https://spring.io/tools) version 4.20.0.
 
-This backend project is the server side of a complete web application. It takes care of the business logic, data management. 
-The project includes two endpoints for the API and a set of tests to ensure its correct functioning.
-
 ## Build
 Run by means of the dash board we start. Navigate to `http://localhost:8080/`. The application will automatically reload if you change any of the source files.
-
 
 **Descripción:**
 
